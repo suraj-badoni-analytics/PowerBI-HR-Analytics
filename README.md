@@ -13,7 +13,7 @@ It analyzes employee distribution and salary levels using Oracle HR sample data.
 
 ### 2. High Salary Employees 
 - Employees earning above company average
-- Department slicer for analysis !
+- Department slicer for analysis 
   
 ![High Salary](screenshots/page2_high_salary_employees.PNG) 
 
